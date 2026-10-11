@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Alexis",
+    "apellido": "Mera",
+    "email": "alexismera2003@gmail.com",
+    "carnet": "2345",
+    "carrera": "ing software"
+  },
+  {
+    "id": 2,
+    "nombre": "Elkin",
+    "apellido": "Gonzalez",
+    "email": "elkingonzales19@gamil.com",
+    "carnet": "15234",
+    "carrera": "arquitetura"
+  },
+  {
+    "id": 3,
+    "nombre": "justo",
+    "apellido": "espinoza",
+    "email": "justoezpinoza21@gmail.com",
+    "carnet": "9874",
+    "carrera": "civil"
+  }
+]
